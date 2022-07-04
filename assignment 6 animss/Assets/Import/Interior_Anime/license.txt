@@ -1,0 +1,11 @@
+Model Information:
+* title:	Interior Anime
+* source:	https://sketchfab.com/3d-models/interior-anime-0a4591f15bfe4971a41cea2a9d989e6e
+* author:	ganic30 (https://sketchfab.com/ganic30)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Interior Anime" (https://sketchfab.com/3d-models/interior-anime-0a4591f15bfe4971a41cea2a9d989e6e) by ganic30 (https://sketchfab.com/ganic30) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
